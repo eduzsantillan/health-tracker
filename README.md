@@ -2,7 +2,7 @@
 
 A modern Android application for tracking workouts and health metrics, built with Jetpack Compose and Material 3 design.
 
-![Health Tracker App](https://via.placeholder.com/800x400?text=Health+Tracker+App)
+![Health Tracker App](https://plus.unsplash.com/premium_photo-1732628348854-56a54f1da2ad?q=80&w=3348&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## Features
 
@@ -33,9 +33,9 @@ The app follows MVVM (Model-View-ViewModel) architecture with Repository pattern
 
 ## Screenshots
 
-| Workout Screen | History Screen | Add Workout |
-|:---:|:---:|:---:|
-| ![Workout](https://via.placeholder.com/250x500?text=Workout+Screen) | ![History](https://via.placeholder.com/250x500?text=History+Screen) | ![Add](https://via.placeholder.com/250x500?text=Add+Workout) |
+|         Workout Screen          |          History Screen           |          Add Workout           |
+|:-------------------------------:|:---------------------------------:|:------------------------------:|
+| ![Workout](screenshots/img.png) | ![History](screenshots/img_1.png) | !![Add](screenshots/img_2.png) |
 
 ## Getting Started
 
